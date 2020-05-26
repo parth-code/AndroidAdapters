@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/more_info"
+        android:title="More Info" />
+    <item
+        android:id="@+id/trailer"
+        android:title="Trailer" />
+    <item
+        android:id="@+id/dir_wiki"
+        android:title="Director's wiki" />
+    <item
+        android:id="@+id/imdb"
+        android:title="Imdb" />
+</menu>
